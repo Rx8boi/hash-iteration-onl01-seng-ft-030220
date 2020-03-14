@@ -6,4 +6,4 @@ passengers.each do |suite, name|
   end
 end
 
-winnerlearn
+winner
